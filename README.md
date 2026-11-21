@@ -4,6 +4,7 @@
  
 I'm Ilyas Lesmana, a student majoring in Information Systems at the University of Terbuka. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication.
 
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-3b82f6?style=flat&labelColor=1d4ed8&logo=googlechrome&logoColor=white)](https://ilyaslesmana.github.io/Web-Portopolio/#contact)
 [![Mail Badge](https://img.shields.io/badge/-ilyaslesmana@gmail.com-2563eb?style=flat&labelColor=1d4ed8&logo=gmail&logoColor=white)](mailto:contact.ilyaslesmana@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@ilyaslesmana_-0284c7?style=flat&labelColor=0369a1&logo=instagram&logoColor=white)](https://instagram.com/ilyas.l_)
 [![Linkedin Badge](https://img.shields.io/badge/-ilyaslesmana-1e40af?style=flat&labelColor=1e3a8a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-L/)
