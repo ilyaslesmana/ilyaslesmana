@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:1d4ed8&height=150&text=Hi,%20I'm%20Ilyas%20Lesmana&fontSize=50&fontColor=e0f2fe&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+systems%2C+one+commit+at+a+time;Informatics+%40+Universitas+Terbuka;Turning+ideas+into+working+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+systems%2C+one+commit+at+a+time;System+Information+%40+Universitas+Terbuka;Turning+ideas+into+working+products" alt="Typing SVG" />
  
 I'm Ilyas Lesmana, a student majoring in Information Systems at the University of Terbuka. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication. 
  
