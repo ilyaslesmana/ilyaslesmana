@@ -6,7 +6,7 @@ I'm Ilyas Lesmana, a student majoring in Information Systems at the University o
 
 [![Mail Badge](https://img.shields.io/badge/-ilyaslesmana@gmail.com-2563eb?style=flat&labelColor=1d4ed8&logo=gmail&logoColor=white)](mailto:contact.ilyaslesmana@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@ilyaslesmana_-0284c7?style=flat&labelColor=0369a1&logo=instagram&logoColor=white)](https://instagram.com/ilyas.l_)
-[![Linkedin Badge](https://img.shields.io/badge/-ilyas-lesmana-1e40af?style=flat&labelColor=1e3a8a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-L/)
+[![Linkedin Badge](https://img.shields.io/badge/-ilyaslesmana-1e40af?style=flat&labelColor=1e3a8a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-L/)
 [![Tiktok](https://img.shields.io/badge/-ilyaslesmana-0f172a?style=flat&labelColor=1e293b&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ilyaslesmana/)
 [![](https://komarev.com/ghpvc/?username=ilyaslesmana&color=blue&label=Profile%20Views)](https://github.com/ilyaslesmana/ilyaslesmana)
 [![](https://img.shields.io/github/followers/ilyaslesmana?label=GitHub%20Followers)](https://github.com/ilyaslesmana)
