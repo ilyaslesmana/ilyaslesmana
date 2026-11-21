@@ -2,13 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+systems%2C+one+commit+at+a+time;System+Information+%40+Universitas+Terbuka;Turning+ideas+into+working+products" alt="Typing SVG" />
  
-I'm Ilyas Lesmana, a student majoring in Information Systems at the University of Terbuka. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication. 
- 
-I focus on creating web applications that not only provide precise experiences but are also user-friendly. My specialization includes JavaScript and TypeScript, along with frameworks such as React, Vite, and Next.js. As a quick learner and adaptive thinker, I thrive in a dynamic environment where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
+I'm Ilyas Lesmana, a student majoring in Information Systems at the University of Terbuka. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication.
 
 [![Mail Badge](https://img.shields.io/badge/-ilyaslesmana@gmail.com-2563eb?style=flat&labelColor=1d4ed8&logo=gmail&logoColor=white)](mailto:contact.ilyaslesmana@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@ilyaslesmana__-0284c7?style=flat&labelColor=0369a1&logo=instagram&logoColor=white)](https://instagram.com/ilyas.l_)
-[![Linkedin Badge](https://img.shields.io/badge/-ilyaslesmana-1e40af?style=flat&labelColor=1e3a8a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-L/)
+[![Instagram Badge](https://img.shields.io/badge/-@ilyaslesmana_-0284c7?style=flat&labelColor=0369a1&logo=instagram&logoColor=white)](https://instagram.com/ilyas.l_)
+[![Linkedin Badge](https://img.shields.io/badge/-ilyas-lesmana-1e40af?style=flat&labelColor=1e3a8a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-L/)
 [![Tiktok](https://img.shields.io/badge/-ilyaslesmana-0f172a?style=flat&labelColor=1e293b&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ilyaslesmana/)
 [![](https://komarev.com/ghpvc/?username=ilyaslesmana&color=blue&label=Profile%20Views)](https://github.com/ilyaslesmana/ilyaslesmana)
 [![](https://img.shields.io/github/followers/ilyaslesmana?label=GitHub%20Followers)](https://github.com/ilyaslesmana)
